@@ -31,3 +31,5 @@ Enviar mensaje a los grupos
 
 <img width="339" height="426" alt="image" src="https://github.com/user-attachments/assets/164b6512-b60a-4e2b-8489-a25bce0d631a" />
 
+<img width="754" height="100" alt="image" src="https://github.com/user-attachments/assets/6c7ed0bd-781c-401b-94ee-7ee74ee3a30d" />
+
